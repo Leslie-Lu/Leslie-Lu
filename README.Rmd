@@ -1,0 +1,22 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leslie-Lu&show_icons=true)
+
+ 👋 Welcome! I'm a fan of R, SAS and Python. 🔭 I’m a PhD candidate @Sun Yat-sen University (China), currently working on studying epidemiology of sexually transmitted infections by biostatistic and machine-learning skills.
+
+ 💬  Ask me anything by [email](mailto:luzh29@mail2.sysu.edu.cn).
+
+ If you use Chinese, you can also follow me on [微信公众号](https://gitee.com/Leslie-Lu/markdown/raw/master/image/20230522174712.jpg).
+
+[**My Google Research Profile**](https://scholar.google.com/citations?user=LKLQ1g8AAAAJ&hl=en)
