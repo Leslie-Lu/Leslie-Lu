@@ -58,7 +58,9 @@ Python                   1 repo              ████░░░░░░░�
  Last Updated on 01/08/2023 11:30:34 UTC
 <!--END_SECTION:waka-->
 
-> These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leslie-Lu&show_icons=true)
+
 
 -----
 
