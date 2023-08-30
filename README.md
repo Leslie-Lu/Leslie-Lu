@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 96.7 kB Used in GitHub's Storage 
+> 📦 180.1 kB Used in GitHub's Storage 
  > 
 > 🏆 168 Contributions in the Year 2023
  > 
@@ -56,7 +56,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2023 05:22:36 UTC
+ Last Updated on 30/08/2023 18:39:03 UTC
 <!--END_SECTION:waka-->
 
 -----
