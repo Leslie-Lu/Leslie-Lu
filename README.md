@@ -15,8 +15,6 @@
 
 > 📦 219.4 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -56,7 +54,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2024 18:38:46 UTC
+ Last Updated on 16/03/2024 18:39:57 UTC
 <!--END_SECTION:waka-->
 
 -----
