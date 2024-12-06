@@ -15,8 +15,6 @@
 
 > 📦 238.5 kB Used in GitHub's Storage 
  > 
-> 🏆 570 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -57,7 +55,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2024 18:48:49 UTC
+ Last Updated on 06/12/2024 18:49:12 UTC
 <!--END_SECTION:waka-->
 
 -----
