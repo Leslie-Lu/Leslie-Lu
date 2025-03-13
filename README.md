@@ -15,6 +15,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 163 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -55,7 +57,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2025 18:49:04 UTC
+ Last Updated on 13/03/2025 18:48:05 UTC
 <!--END_SECTION:waka-->
 
 -----
