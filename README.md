@@ -6,7 +6,7 @@
 
 💬 Connect to me by [email](mailto:luzh29@mail2.sysu.edu.cn).
 
-[![bilibili](https://img.shields.io/badge/陆震同学-B站-yellow)](https://space.bilibili.com/32159908) [![wechat](https://img.shields.io/badge/陆震生物统计-微信公众号-important)](https://leslie-lu.github.io/uploads/qrcode.jpg) [![planet](https://img.shields.io/badge/陆震生物统计-知识星球-blueviolet)](https://wx.zsxq.com/dweb2) [![planet](https://img.shields.io/badge/预测模型-知识星球-blueviolet)](https://wx.zsxq.com/group/88888248222822) [![zhihu](https://img.shields.io/badge/陆震同学-知乎-blue)](https://www.zhihu.com/people/edison-70-18) [![X](https://img.shields.io/badge/ZhenLu_Biost-Twitter-ff69b4)](https://twitter.com/ZhenLu_Biost) [![scholar](https://img.shields.io/badge/ZhenLu-Scholar-00ffff)](https://scholar.google.com/citations?user=LKLQ1g8AAAAJ)
+[![bilibili](https://img.shields.io/badge/陆震同学-B站-yellow)](https://space.bilibili.com/32159908) [![wechat](https://img.shields.io/badge/陆震生物统计-微信公众号-important)](https://leslie-lu.github.io/uploads/qrcode.jpg) [![planet](https://img.shields.io/badge/陆震生物统计-知识星球-blueviolet)](https://wx.zsxq.com/dweb2) [![planet](https://img.shields.io/badge/预测模型-知识星球-blueviolet)](https://wx.zsxq.com/group/88888248222822) [![zhihu](https://img.shields.io/badge/陆震同学-知乎-blue)](https://www.zhihu.com/people/edison-70-18) [![X](https://img.shields.io/badge/ZhenLu_Biost-X-ff69b4)](https://twitter.com/ZhenLu_Biost) [![scholar](https://img.shields.io/badge/ZhenLu-Scholar-00ffff)](https://scholar.google.com/citations?user=LKLQ1g8AAAAJ)
 
 ## 🥰 Github Stats 
  
